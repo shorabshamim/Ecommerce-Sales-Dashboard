@@ -14,7 +14,7 @@ This project focuses on analyzing sales performance and customer behavior using 
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 
 ### 📈 Sales Trends
 - Trend in the last 13 weeks  
