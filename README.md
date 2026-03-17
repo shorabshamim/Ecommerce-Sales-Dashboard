@@ -54,5 +54,6 @@ This analysis helps transform raw data into actionable insights, enabling better
 
 ---
 
-<img width="831" height="410" alt="Screenshot 2026-03-17 134526" src="https://github.com/user-attachments/assets/7153586e-cc2a-475a-8d28-8508fe94d7a0" />
+
+<img width="656" height="347" alt="Screenshot 2026-03-17 134811" src="https://github.com/user-attachments/assets/6fee7d64-95ae-4776-8025-2dc2f4dce404" />
 
