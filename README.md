@@ -51,3 +51,8 @@ The goal of this project is to:
 ## 📌 Conclusion
 
 This analysis helps transform raw data into actionable insights, enabling better strategic decisions and improved customer experience.
+
+---
+
+<img width="831" height="410" alt="Screenshot 2026-03-17 134526" src="https://github.com/user-attachments/assets/7153586e-cc2a-475a-8d28-8508fe94d7a0" />
+
